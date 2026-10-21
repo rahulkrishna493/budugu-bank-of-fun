@@ -1,0 +1,2 @@
+# keep LF so install.sh and app.py run unchanged on the Pi
+* text=auto eol=lf
