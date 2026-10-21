@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+# photos of test prints are kept locally, not in the repo
+*.jpg
+*.jpeg
+*.png
